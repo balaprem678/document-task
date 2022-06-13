@@ -1,0 +1,23 @@
+.x{
+  position: relative;
+  height: 200px;
+  width: 200px;
+  margin: 100px;
+  padding: 10px;
+  border: 1px solid black;
+}
+.y{
+  padding: 50px;
+  position: absolute;
+  border: 1px solid black;
+  background-color: red;
+  transform: rotatey(60deg);
+  transform-style: preserve-3d;
+}
+.z{
+  padding: 40px;
+  position: absolute;
+  border: 1px solid black;
+  background-color: yellow;
+  transform: rotatey(-60deg);
+}
