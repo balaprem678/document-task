@@ -1,0 +1,3 @@
+.first p::selection{
+  background-color: blue;
+}

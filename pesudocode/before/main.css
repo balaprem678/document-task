@@ -1,0 +1,4 @@
+p::before { 
+  content: "Remember this - ";
+  color: blueviolet;
+}

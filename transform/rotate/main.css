@@ -1,0 +1,23 @@
+/* div.x{
+  transform: rotate(20deg);
+  background-color: aqua;
+  width: 80px;
+  height: 20px;
+  text-align: center;
+} */
+
+/* div.x{
+  transform: rotatex(100deg);
+  background-color: aqua;
+  width: 80px;
+  height: 20px;
+  text-align: center;
+} */
+
+div.x{
+  transform: rotatey(40deg);
+  background-color: aqua;
+  width: 80px;
+  height: 20px;
+  text-align: center;
+}

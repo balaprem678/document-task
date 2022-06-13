@@ -1,0 +1,14 @@
+div {
+  width: 100px;
+  height: 100px;
+  background: red;
+  transition: width 2s;
+}
+
+.div1 {
+  transition-timing-function: ease-in-out;
+}
+
+div:hover {
+  width: 300px;
+}
